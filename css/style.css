@@ -1,0 +1,12 @@
+.all{
+    display: flex;
+    justify-content: space-around;
+    align-content: center;
+    padding-top: 15%;
+}
+.first-list{
+    font-size: 30px;
+}
+.second-list{
+    font-size: 30px;
+}
